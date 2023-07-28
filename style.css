@@ -1,0 +1,55 @@
+body{
+    background-image: url('Brick.jpg');
+    background-size: cover;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    color: aliceblue;
+    text-align: center;
+    }
+    ::placeholder{
+        color: aliceblue;
+    }
+.container{
+    width: 500px;
+    padding: 100px;
+    background-color: rgb(44, 38, 39);
+    border: 1px solid rgb(16, 1, 1)303;
+    margin: 0 auto;
+    margin-top: 100px;
+    text-align: center;
+    color: aliceblue;
+}
+
+.container input{
+    width: 130px;
+    padding: 16px;
+    background-color: rgb(141, 120, 120);
+    border: 1px solid rgb(16, 1, 1)303;
+    margin: 5px 0 10px 0;
+    color: aliceblue;
+}
+
+.container button{
+    width: 100px;
+    padding: 16px;
+    background-color: rgb(85, 82, 82);
+    border: none
+    margin: 5px 0 10px 0;
+    cursor: pointer;
+}   
+
+.container button:hover{
+    background-color: rgb(223, 67, 67)
+}
+h1 {
+    color: aliceblue;
+    font-size: 32px; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold; 
+    text-align: center;
+  }
+
+p{
+    background-color: rgba(69, 75, 80, 0.5);
+}
+  
